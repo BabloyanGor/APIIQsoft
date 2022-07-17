@@ -57,12 +57,12 @@ public class ReportingAllure implements ITestListener {
     public void onTestFailure(ITestResult iTestResult) {
         System.out.println("I am in onTestFailure method " + getTestMethodName(iTestResult) + " failed");
         Object testClass = iTestResult.getInstance();
-        WebDriver driver = BaseTest.driver;
-        // Allure ScreenShotRobot and SaveTestLog
-        if (driver instanceof WebDriver) {
-            System.out.println("Screenshot captured for test case:" + getTestMethodName(iTestResult));
-            saveScreenshotPNG(driver);
-        }
+//        WebDriver driver = BaseTest.driver;
+//        // Allure ScreenShotRobot and SaveTestLog
+//        if (driver instanceof WebDriver) {
+//            System.out.println("Screenshot captured for test case:" + getTestMethodName(iTestResult));
+//            saveScreenshotPNG(driver);
+//        }
         // Save a log on allure.
         saveTextLog(getTestMethodName(iTestResult) + " failed and screenshot taken!");
     }
