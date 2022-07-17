@@ -16,6 +16,7 @@ public class BaseTest {
     public void Start(){
         logger = Logger.getLogger("craftBet");
         PropertyConfigurator.configure("Log4j.properties");
+        logger.info("API Test Suite start execution");
     }
     @AfterSuite
     public void Finish() throws InterruptedException, IOException {
