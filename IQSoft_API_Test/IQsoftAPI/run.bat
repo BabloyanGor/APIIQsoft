@@ -1,4 +1,5 @@
-cd C:\Users\Nerses Khachatryan\Desktop\Git_craftBet_TestAutomation\CraftBet_JavaFrameWork\craftBetAutomation
-mvn clean install
-
-
+cd D:\IQsoft\IQsoftAPITesting\APIIQsoft\IQSoft_API_Test\IQsoftAPI
+CALL mvn clean install
+allure serve allure-results
+pause
+cmd /k
