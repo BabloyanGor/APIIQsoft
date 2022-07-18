@@ -2,13 +2,15 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
     <listeners>
-
         <listener class-name="utilities.ReportingAllure"/>
     </listeners>
+
+
     <test name="testCases.LoginPopUpTest">
         <classes>
             <class name="testCases.API1_GameLaunch"/>
-
         </classes>
     </test>
+
+
 </suite>
