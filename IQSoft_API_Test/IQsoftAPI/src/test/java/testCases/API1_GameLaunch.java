@@ -32,31 +32,28 @@ public class API1_GameLaunch extends BaseTest {
         apisVariables_gameLunching_Request_body.setDomain("betfaro.com");
         String requestBodyValue = gson.toJson(apisVariables_gameLunching_Request_body);
 
-        Unirest.setTimeouts(0, 0);
-        HttpResponse<String> response = Unirest.post(url)
-                .header("Content-Type", "application/json")
-                .body(requestBodyValue)
-                .asString();
-        logger.info("Game Launching API request was sent");
+        try{
+            Unirest.setTimeouts(0, 0);
+            HttpResponse<String> response = Unirest.post(url)
+                    .header("Content-Type", "application/json")
+                    .body(requestBodyValue)
+                    .asString();
+            logger.info("Game Launching API request was sent");
 
-        // Response body
-        JSONObject responseBody = new JSONObject(response.getBody());
+            JSONObject responseBody = new JSONObject(response.getBody());
 
-        gameLaunching.setCod(response.getCode());
+            gameLaunching.setCod(response.getCode());
 
-        gameLaunching.setResponseCode(Integer.parseInt(responseBody.getString("ResponseCode")));
+            gameLaunching.setResponseCode(Integer.parseInt(responseBody.getString("ResponseCode")));
 
-        gameLaunching.setDescription(String.valueOf(responseBody.getString("Description")));
+            gameLaunching.setDescription(String.valueOf(responseBody.getString("Description")));
 
-        gameLaunching.setResponseObject(responseBody.getString("ResponseObject"));
-
-        System.out.println();
-
+            gameLaunching.setResponseObject(responseBody.getString("ResponseObject"));
+        }
+        catch(UnirestException e){
+            logger.info("Game Launching API request has an Exception");
+        }
     }
-
-
-
-
 
     @Test(priority = 1)
     @Description("Verify game launching API_s Status cod (need to be 200)")

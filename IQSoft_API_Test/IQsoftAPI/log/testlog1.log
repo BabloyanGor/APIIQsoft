@@ -26,3 +26,36 @@
 2022-07-18 16:37:03,928 [main] FATAL craftBet - responseDescriptionTest Test Failed
 2022-07-18 16:37:03,933 [main] INFO craftBet - responseObjectTest Test Start
 2022-07-18 16:37:03,933 [main] FATAL craftBet - responseObjectTest Test Failed
+2022-07-18 20:52:23,020 [main] INFO craftBet - API Test Suite start execution
+2022-07-18 20:52:24,161 [main] INFO craftBet - Game Launching API request was sent
+2022-07-18 20:52:24,273 [main] INFO craftBet - Game Launching API Response status was checked
+2022-07-18 20:52:24,273 [main] INFO craftBet - ---------------------------------------------------------------
+2022-07-18 21:49:53,217 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update test container: container with uuid c27952b8-5844-4c6d-9afc-c62fa364cb1d not found
+2022-07-18 21:50:37,218 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update test container: container with uuid 21196d54-2c2b-4cf7-82e4-003b0a36486a not found
+2022-07-18 21:54:02,006 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update test container: container with uuid c4833365-dff5-48d4-88f6-2b1597e2e63f not found
+2022-07-18 21:54:57,550 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update test container: container with uuid 6a9b04a2-747e-4f06-bf47-cafcc4698d2e not found
+2022-07-18 21:55:26,954 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update test container: container with uuid dae4154e-0aef-427f-ad91-fdd608aa7e17 not found
+2022-07-18 21:56:03,206 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update test container: container with uuid 542d325c-f10c-470e-a2a5-d53b2794d424 not found
+2022-07-18 21:57:00,229 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update test container: container with uuid d78d65cd-8150-4588-b180-96c87e2921e8 not found
+2022-07-18 21:57:29,864 [main] INFO craftBet - API Test Suite start execution
+2022-07-18 21:57:30,584 [main] INFO craftBet - Game Launching API request was sent
+2022-07-18 21:57:30,617 [main] INFO craftBet - Game Launching API Response status was checked
+2022-07-18 21:57:30,617 [main] INFO craftBet - ---------------------------------------------------------------
+2022-07-18 21:58:26,064 [main] INFO IQsoftAPI - API Test Suite start execution
+2022-07-18 21:58:26,973 [main] INFO IQsoftAPI - Game Launching API request was sent
+2022-07-18 21:58:27,008 [main] INFO IQsoftAPI - Game Launching API Response status was checked
+2022-07-18 21:58:27,008 [main] INFO IQsoftAPI - ---------------------------------------------------------------
+2022-07-18 21:59:50,034 [main] INFO IQsoftAPI - API Test Suite start execution
+2022-07-18 21:59:50,077 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update test container: container with uuid 2bc440f8-4581-44b1-9147-e386544ae2f7 not found
+2022-07-18 22:01:18,843 [main] INFO IQsoftAPI - API Test Suite start execution
+2022-07-18 22:01:18,877 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update test container: container with uuid 480c2869-5759-4454-8f0b-ad3983835dbc not found
+2022-07-18 22:01:55,466 [main] INFO IQsoftAPI - API Test Suite start execution
+2022-07-18 22:01:56,256 [main] INFO IQsoftAPI - Game Launching API request was sent
+2022-07-18 22:01:56,297 [main] INFO IQsoftAPI - Game Launching API Response status was checked
+2022-07-18 22:01:56,297 [main] INFO IQsoftAPI - ---------------------------------------------------------------
+2022-07-18 22:03:14,932 [main] INFO IQsoftAPI - API Test Suite start execution
+2022-07-18 22:03:14,932 [main] FATAL IQsoftAPI - We have no Token for API tests execution
+2022-07-18 22:03:14,963 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update test container: container with uuid ce5037e7-1c96-41b8-9edb-f09ac1235185 not found
+2022-07-18 22:04:57,337 [main] INFO IQsoftAPI - API Test Suite start execution
+2022-07-18 22:04:57,339 [main] ERROR IQsoftAPI - We have no Token for API tests execution
+2022-07-18 22:04:57,374 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update test container: container with uuid 6ae0c0eb-a43b-4a66-9fe2-f57b679be353 not found

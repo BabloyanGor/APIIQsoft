@@ -26,3 +26,36 @@
 2022-07-18 16:37:03,928 - craftBet -FATAL - responseDescriptionTest Test Failed
 2022-07-18 16:37:03,933 - craftBet -INFO - responseObjectTest Test Start
 2022-07-18 16:37:03,933 - craftBet -FATAL - responseObjectTest Test Failed
+2022-07-18 20:52:23,020 - craftBet -INFO - API Test Suite start execution
+2022-07-18 20:52:24,161 - craftBet -INFO - Game Launching API request was sent
+2022-07-18 20:52:24,273 - craftBet -INFO - Game Launching API Response status was checked
+2022-07-18 20:52:24,273 - craftBet -INFO - ---------------------------------------------------------------
+2022-07-18 21:49:53,217 - io.qameta.allure.AllureLifecycle -ERROR - Could not update test container: container with uuid c27952b8-5844-4c6d-9afc-c62fa364cb1d not found
+2022-07-18 21:50:37,218 - io.qameta.allure.AllureLifecycle -ERROR - Could not update test container: container with uuid 21196d54-2c2b-4cf7-82e4-003b0a36486a not found
+2022-07-18 21:54:02,006 - io.qameta.allure.AllureLifecycle -ERROR - Could not update test container: container with uuid c4833365-dff5-48d4-88f6-2b1597e2e63f not found
+2022-07-18 21:54:57,550 - io.qameta.allure.AllureLifecycle -ERROR - Could not update test container: container with uuid 6a9b04a2-747e-4f06-bf47-cafcc4698d2e not found
+2022-07-18 21:55:26,954 - io.qameta.allure.AllureLifecycle -ERROR - Could not update test container: container with uuid dae4154e-0aef-427f-ad91-fdd608aa7e17 not found
+2022-07-18 21:56:03,206 - io.qameta.allure.AllureLifecycle -ERROR - Could not update test container: container with uuid 542d325c-f10c-470e-a2a5-d53b2794d424 not found
+2022-07-18 21:57:00,229 - io.qameta.allure.AllureLifecycle -ERROR - Could not update test container: container with uuid d78d65cd-8150-4588-b180-96c87e2921e8 not found
+2022-07-18 21:57:29,864 - craftBet -INFO - API Test Suite start execution
+2022-07-18 21:57:30,584 - craftBet -INFO - Game Launching API request was sent
+2022-07-18 21:57:30,617 - craftBet -INFO - Game Launching API Response status was checked
+2022-07-18 21:57:30,617 - craftBet -INFO - ---------------------------------------------------------------
+2022-07-18 21:58:26,064 - IQsoftAPI -INFO - API Test Suite start execution
+2022-07-18 21:58:26,973 - IQsoftAPI -INFO - Game Launching API request was sent
+2022-07-18 21:58:27,008 - IQsoftAPI -INFO - Game Launching API Response status was checked
+2022-07-18 21:58:27,008 - IQsoftAPI -INFO - ---------------------------------------------------------------
+2022-07-18 21:59:50,034 - IQsoftAPI -INFO - API Test Suite start execution
+2022-07-18 21:59:50,077 - io.qameta.allure.AllureLifecycle -ERROR - Could not update test container: container with uuid 2bc440f8-4581-44b1-9147-e386544ae2f7 not found
+2022-07-18 22:01:18,843 - IQsoftAPI -INFO - API Test Suite start execution
+2022-07-18 22:01:18,877 - io.qameta.allure.AllureLifecycle -ERROR - Could not update test container: container with uuid 480c2869-5759-4454-8f0b-ad3983835dbc not found
+2022-07-18 22:01:55,466 - IQsoftAPI -INFO - API Test Suite start execution
+2022-07-18 22:01:56,256 - IQsoftAPI -INFO - Game Launching API request was sent
+2022-07-18 22:01:56,297 - IQsoftAPI -INFO - Game Launching API Response status was checked
+2022-07-18 22:01:56,297 - IQsoftAPI -INFO - ---------------------------------------------------------------
+2022-07-18 22:03:14,932 - IQsoftAPI -INFO - API Test Suite start execution
+2022-07-18 22:03:14,932 - IQsoftAPI -FATAL - We have no Token for API tests execution
+2022-07-18 22:03:14,963 - io.qameta.allure.AllureLifecycle -ERROR - Could not update test container: container with uuid ce5037e7-1c96-41b8-9edb-f09ac1235185 not found
+2022-07-18 22:04:57,337 - IQsoftAPI -INFO - API Test Suite start execution
+2022-07-18 22:04:57,339 - IQsoftAPI -ERROR - We have no Token for API tests execution
+2022-07-18 22:04:57,374 - io.qameta.allure.AllureLifecycle -ERROR - Could not update test container: container with uuid 6ae0c0eb-a43b-4a66-9fe2-f57b679be353 not found
