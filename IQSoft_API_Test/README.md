@@ -1,3 +1,3 @@
-# CraftBet Java FrameWork
+# IQsoft API Java FrameWork
 
-UI and Functional Testing
+API Testing
