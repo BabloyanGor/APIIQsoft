@@ -1,0 +1,33 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 1.65 sec <<< FAILURE! - in TestSuite
+responseCodeTest(testCases.API1_GameLaunch)  Time elapsed: 0.011 sec  <<< FAILURE!
+java.lang.AssertionError: expected [0] but found [21]
+	at org.testng.Assert.fail(Assert.java:110)
+	at org.testng.Assert.failNotEquals(Assert.java:1413)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+	at org.testng.Assert.assertEquals(Assert.java:131)
+	at org.testng.Assert.assertEquals(Assert.java:1240)
+	at org.testng.Assert.assertEquals(Assert.java:1274)
+	at testCases.API1_GameLaunch.responseCodeTest(API1_GameLaunch.java:73)
+
+responseDescriptionTest(testCases.API1_GameLaunch)  Time elapsed: 0.004 sec  <<< FAILURE!
+java.lang.AssertionError: expected [null] but found [{"ClientNotFound":22,"Description":"User Not Found"}]
+	at org.testng.Assert.fail(Assert.java:110)
+	at org.testng.Assert.failNotEquals(Assert.java:1413)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+	at org.testng.Assert.assertEquals(Assert.java:131)
+	at org.testng.Assert.assertEquals(Assert.java:655)
+	at org.testng.Assert.assertEquals(Assert.java:665)
+	at testCases.API1_GameLaunch.responseDescriptionTest(API1_GameLaunch.java:81)
+
+responseObjectTest(testCases.API1_GameLaunch)  Time elapsed: 0.004 sec  <<< FAILURE!
+java.lang.AssertionError: did not expect [null] but found [null]
+	at org.testng.Assert.fail(Assert.java:110)
+	at org.testng.Assert.failEquals(Assert.java:1417)
+	at org.testng.Assert.assertNotEqualsImpl(Assert.java:156)
+	at org.testng.Assert.assertNotEquals(Assert.java:2033)
+	at org.testng.Assert.assertNotEquals(Assert.java:2055)
+	at testCases.API1_GameLaunch.responseObjectTest(API1_GameLaunch.java:89)
+

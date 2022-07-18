@@ -1,11 +1,6 @@
+testData\APIVariables_GameLaunching_Response.class
 utilities\ReportingAllure.class
-testCases\Casino_Games_Test.class
-testCases\LoginPopUpTest.class
-testCases\PasswordRecoveryTest.class
-utilities\XLUtils.class
-testCases\SignUpQuickRegisterTest.class
-utilities\Reporting.class
-utilities\DriverFactory.class
+testCases\API1_GameLaunch.class
 testCases\BaseTest.class
-testCases\SignUpFullRegisterTest.class
+testData\APISVariables_GameLunching_RequestBody.class
 utilities\ReadConfig.class

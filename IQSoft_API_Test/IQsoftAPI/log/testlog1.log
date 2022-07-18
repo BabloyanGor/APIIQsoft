@@ -1,43 +1,28 @@
-2022-07-18 10:22:15,586 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 10:26:40,807 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 10:28:29,921 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 10:36:35,587 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 10:37:57,095 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 10:39:33,077 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 10:40:29,224 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 10:44:32,239 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 10:46:12,528 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 10:49:21,191 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 10:49:50,318 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 10:50:51,783 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 10:51:54,009 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 10:53:42,037 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 10:54:00,650 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 10:54:50,754 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 10:54:59,546 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 10:55:07,322 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 10:55:20,579 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 10:55:54,310 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 10:57:06,911 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 11:04:34,237 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 11:04:52,115 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 11:04:59,729 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 11:05:59,939 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 11:07:24,343 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 11:10:27,583 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 11:10:59,231 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 11:14:12,771 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 11:15:08,561 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 11:16:36,559 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 11:16:45,441 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 11:17:36,392 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 11:18:34,517 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 11:20:19,451 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 11:20:39,640 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 11:21:28,683 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 11:23:00,240 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 11:24:56,374 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 12:08:34,412 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 12:10:18,685 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 12:10:58,078 [main] INFO craftBet - API Test Suite start execution
-2022-07-18 12:12:19,091 [main] INFO craftBet - API Test Suite start execution
+2022-07-18 16:34:20,010 [main] INFO craftBet - API Test Suite start execution
+2022-07-18 16:34:21,015 [main] INFO craftBet - Game Launching API request was sent
+2022-07-18 16:34:21,068 [main] INFO craftBet - Game Launching API Response status was checked
+2022-07-18 16:34:21,069 [main] INFO craftBet - ---------------------------------------------------------------
+2022-07-18 16:34:45,652 [main] INFO craftBet - API Test Suite start execution
+2022-07-18 16:34:46,355 [main] INFO craftBet - Game Launching API request was sent
+2022-07-18 16:34:46,406 [main] INFO craftBet - codTest Test Start
+2022-07-18 16:34:46,409 [main] INFO craftBet - Game Launching API Response status was checked
+2022-07-18 16:34:46,410 [main] INFO craftBet - ---------------------------------------------------------------
+2022-07-18 16:34:46,413 [main] INFO craftBet - codTest Test Succeed
+2022-07-18 16:34:46,462 [main] INFO craftBet - responseCodeTest Test Start
+2022-07-18 16:34:46,466 [main] FATAL craftBet - responseCodeTest Test Failed
+2022-07-18 16:34:46,475 [main] INFO craftBet - responseDescriptionTest Test Start
+2022-07-18 16:34:46,476 [main] FATAL craftBet - responseDescriptionTest Test Failed
+2022-07-18 16:34:46,480 [main] INFO craftBet - responseObjectTest Test Start
+2022-07-18 16:34:46,480 [main] FATAL craftBet - responseObjectTest Test Failed
+2022-07-18 16:37:03,026 [main] INFO craftBet - API Test Suite start execution
+2022-07-18 16:37:03,812 [main] INFO craftBet - Game Launching API request was sent
+2022-07-18 16:37:03,863 [main] INFO craftBet - codTest Test Start
+2022-07-18 16:37:03,866 [main] INFO craftBet - Game Launching API Response status was checked
+2022-07-18 16:37:03,866 [main] INFO craftBet - ---------------------------------------------------------------
+2022-07-18 16:37:03,867 [main] INFO craftBet - codTest Test Succeed
+2022-07-18 16:37:03,916 [main] INFO craftBet - responseCodeTest Test Start
+2022-07-18 16:37:03,921 [main] FATAL craftBet - responseCodeTest Test Failed
+2022-07-18 16:37:03,928 [main] INFO craftBet - responseDescriptionTest Test Start
+2022-07-18 16:37:03,928 [main] FATAL craftBet - responseDescriptionTest Test Failed
+2022-07-18 16:37:03,933 [main] INFO craftBet - responseObjectTest Test Start
+2022-07-18 16:37:03,933 [main] FATAL craftBet - responseObjectTest Test Failed

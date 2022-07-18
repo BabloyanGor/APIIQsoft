@@ -1,1 +1,0 @@
-{"uuid":"93610280-84f3-4fc3-9422-e52f8c22d380","name":"testCases.API1_GameLaunch","children":["46d19303-e18c-4a1b-b2e2-c3979ca06e38"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1658131818724,"stop":1658131819622}],"afters":[],"start":1658131818701,"stop":1658131819772}
