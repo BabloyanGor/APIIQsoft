@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="4" passed="1" failed="3" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-07-18T16:37:03 AMT" name="All Test Suite" finished-at="2022-07-18T16:37:03 AMT" duration-ms="905">
+  <suite started-at="2022-07-19T16:16:25 AMT" name="All Test Suite" finished-at="2022-07-19T16:16:26 AMT" duration-ms="973">
     <groups>
     </groups>
-    <test started-at="2022-07-18T16:37:03 AMT" name="testCases.LoginPopUpTest" finished-at="2022-07-18T16:37:03 AMT" duration-ms="905">
+    <test started-at="2022-07-19T16:16:25 AMT" name="testCases.LoginPopUpTest" finished-at="2022-07-19T16:16:26 AMT" duration-ms="973">
       <class name="testCases.API1_GameLaunch">
-        <test-method is-config="true" signature="Start()[pri:0, instance:testCases.API1_GameLaunch@13fd2ccd]" started-at="2022-07-18T16:37:02 AMT" name="Start" finished-at="2022-07-18T16:37:03 AMT" duration-ms="57" status="PASS">
+        <test-method is-config="true" signature="Start()[pri:0, instance:testCases.API1_GameLaunch@13fd2ccd]" started-at="2022-07-19T16:16:25 AMT" name="Start" finished-at="2022-07-19T16:16:25 AMT" duration-ms="57" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Start -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.API1_GameLaunch@13fd2ccd]" started-at="2022-07-18T16:37:03 AMT" name="setup" finished-at="2022-07-18T16:37:03 AMT" duration-ms="763" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.API1_GameLaunch@13fd2ccd]" started-at="2022-07-19T16:16:25 AMT" name="setup" finished-at="2022-07-19T16:16:25 AMT" duration-ms="773" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="codTest()[pri:1, instance:testCases.API1_GameLaunch@13fd2ccd]" started-at="2022-07-18T16:37:03 AMT" name="codTest" finished-at="2022-07-18T16:37:03 AMT" duration-ms="43" status="PASS">
+        <test-method signature="codTest()[pri:1, instance:testCases.API1_GameLaunch@13fd2ccd]" started-at="2022-07-19T16:16:25 AMT" name="codTest" finished-at="2022-07-19T16:16:25 AMT" duration-ms="42" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- codTest -->
-        <test-method signature="responseCodeTest()[pri:2, instance:testCases.API1_GameLaunch@13fd2ccd]" started-at="2022-07-18T16:37:03 AMT" name="responseCodeTest" finished-at="2022-07-18T16:37:03 AMT" duration-ms="7" status="FAIL">
+        <test-method signature="responseCodeTest()[pri:2, instance:testCases.API1_GameLaunch@13fd2ccd]" started-at="2022-07-19T16:16:26 AMT" name="responseCodeTest" finished-at="2022-07-19T16:16:26 AMT" duration-ms="7" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [0] but found [21]]]>
@@ -32,7 +32,7 @@ at org.testng.Assert.assertEqualsImpl(Assert.java:149)
 at org.testng.Assert.assertEquals(Assert.java:131)
 at org.testng.Assert.assertEquals(Assert.java:1240)
 at org.testng.Assert.assertEquals(Assert.java:1274)
-at testCases.API1_GameLaunch.responseCodeTest(API1_GameLaunch.java:73)
+at testCases.API1_GameLaunch.responseCodeTest(API1_GameLaunch.java:75)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -70,7 +70,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- responseCodeTest -->
-        <test-method signature="responseDescriptionTest()[pri:3, instance:testCases.API1_GameLaunch@13fd2ccd]" started-at="2022-07-18T16:37:03 AMT" name="responseDescriptionTest" finished-at="2022-07-18T16:37:03 AMT" duration-ms="2" status="FAIL">
+        <test-method signature="responseDescriptionTest()[pri:3, instance:testCases.API1_GameLaunch@13fd2ccd]" started-at="2022-07-19T16:16:26 AMT" name="responseDescriptionTest" finished-at="2022-07-19T16:16:26 AMT" duration-ms="2" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [null] but found [{"ClientNotFound":22,"Description":"User Not Found"}]]]>
@@ -83,7 +83,7 @@ at org.testng.Assert.assertEqualsImpl(Assert.java:149)
 at org.testng.Assert.assertEquals(Assert.java:131)
 at org.testng.Assert.assertEquals(Assert.java:655)
 at org.testng.Assert.assertEquals(Assert.java:665)
-at testCases.API1_GameLaunch.responseDescriptionTest(API1_GameLaunch.java:81)
+at testCases.API1_GameLaunch.responseDescriptionTest(API1_GameLaunch.java:83)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -121,7 +121,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- responseDescriptionTest -->
-        <test-method signature="responseObjectTest()[pri:4, instance:testCases.API1_GameLaunch@13fd2ccd]" started-at="2022-07-18T16:37:03 AMT" name="responseObjectTest" finished-at="2022-07-18T16:37:03 AMT" duration-ms="2" status="FAIL">
+        <test-method signature="responseObjectTest()[pri:4, instance:testCases.API1_GameLaunch@13fd2ccd]" started-at="2022-07-19T16:16:26 AMT" name="responseObjectTest" finished-at="2022-07-19T16:16:26 AMT" duration-ms="2" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[did not expect [null] but found [null]]]>
@@ -133,7 +133,7 @@ at org.testng.Assert.failEquals(Assert.java:1417)
 at org.testng.Assert.assertNotEqualsImpl(Assert.java:156)
 at org.testng.Assert.assertNotEquals(Assert.java:2033)
 at org.testng.Assert.assertNotEquals(Assert.java:2055)
-at testCases.API1_GameLaunch.responseObjectTest(API1_GameLaunch.java:89)
+at testCases.API1_GameLaunch.responseObjectTest(API1_GameLaunch.java:91)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -171,11 +171,11 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- responseObjectTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.API1_GameLaunch@13fd2ccd]" started-at="2022-07-18T16:37:03 AMT" name="tearDown" finished-at="2022-07-18T16:37:03 AMT" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.API1_GameLaunch@13fd2ccd]" started-at="2022-07-19T16:16:26 AMT" name="tearDown" finished-at="2022-07-19T16:16:26 AMT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="Finish()[pri:0, instance:testCases.API1_GameLaunch@13fd2ccd]" started-at="2022-07-18T16:37:03 AMT" name="Finish" finished-at="2022-07-18T16:37:03 AMT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="Finish()[pri:0, instance:testCases.API1_GameLaunch@13fd2ccd]" started-at="2022-07-19T16:16:26 AMT" name="Finish" finished-at="2022-07-19T16:16:26 AMT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Finish -->

@@ -59,3 +59,108 @@
 2022-07-18 22:04:57,337 - IQsoftAPI -INFO - API Test Suite start execution
 2022-07-18 22:04:57,339 - IQsoftAPI -ERROR - We have no Token for API tests execution
 2022-07-18 22:04:57,374 - io.qameta.allure.AllureLifecycle -ERROR - Could not update test container: container with uuid 6ae0c0eb-a43b-4a66-9fe2-f57b679be353 not found
+2022-07-19 10:14:01,566 - IQsoftAPI -INFO - API Test Suite start execution
+2022-07-19 10:14:01,572 - IQsoftAPI -ERROR - We have no Token for API tests execution
+2022-07-19 10:14:01,666 - io.qameta.allure.AllureLifecycle -ERROR - Could not update test container: container with uuid 83f7997e-8e37-4231-98f6-ebb02b11c98b not found
+2022-07-19 10:14:32,233 - IQsoftAPI -INFO - API Test Suite start execution
+2022-07-19 10:14:33,469 - IQsoftAPI -INFO - Game Launching API request was sent
+2022-07-19 10:14:33,519 - IQsoftAPI -INFO - Game Launching API Response status was checked
+2022-07-19 10:14:33,519 - IQsoftAPI -INFO - ---------------------------------------------------------------
+2022-07-19 10:16:02,375 - IQsoftAPI -INFO - API Test Suite start execution
+2022-07-19 10:16:03,445 - IQsoftAPI -INFO - Game Launching API request was sent
+2022-07-19 10:20:58,898 - IQsoftAPI -INFO - API Test Suite start execution
+2022-07-19 10:21:44,476 - IQsoftAPI -INFO - Game Launching API request was sent
+2022-07-19 10:23:27,614 - IQsoftAPI -INFO - API Test Suite start execution
+2022-07-19 10:23:31,224 - IQsoftAPI -INFO - Game Launching API request was sent
+2022-07-19 10:24:17,375 - IQsoftAPI -INFO - Game Launching API Response status was checked
+2022-07-19 10:24:17,375 - IQsoftAPI -INFO - ---------------------------------------------------------------
+2022-07-19 10:25:21,635 - IQsoftAPI -INFO - API Test Suite start execution
+2022-07-19 10:25:22,433 - IQsoftAPI -INFO - Game Launching API request was sent
+2022-07-19 10:26:29,279 - IQsoftAPI -INFO - API Test Suite start execution
+2022-07-19 10:26:30,115 - IQsoftAPI -INFO - Game Launching API request was sent
+2022-07-19 10:27:11,831 - IQsoftAPI -INFO - API Test Suite start execution
+2022-07-19 10:27:15,431 - IQsoftAPI -INFO - Game Launching API request was sent
+2022-07-19 10:29:04,775 - IQsoftAPI -INFO - API Test Suite start execution
+2022-07-19 10:29:05,471 - IQsoftAPI -INFO - Game Launching API request was sent
+2022-07-19 10:35:07,447 - IQsoftAPI -INFO - API Test Suite start execution
+2022-07-19 10:35:08,247 - IQsoftAPI -INFO - Game Launching API request was sent
+2022-07-19 10:35:08,295 - IQsoftAPI -INFO - Game Launching API Response status was checked
+2022-07-19 10:35:08,296 - IQsoftAPI -INFO - ---------------------------------------------------------------
+2022-07-19 10:41:28,083 - IQsoftAPI -INFO - API Test Suite start execution
+2022-07-19 10:41:31,012 - IQsoftAPI -INFO - Game Launching API request was sent
+2022-07-19 10:41:31,060 - IQsoftAPI -INFO - Game Launching API Response status was checked
+2022-07-19 10:41:31,060 - IQsoftAPI -INFO - ---------------------------------------------------------------
+2022-07-19 10:41:58,538 - IQsoftAPI -INFO - API Test Suite start execution
+2022-07-19 10:41:59,293 - IQsoftAPI -INFO - Game Launching API request was sent
+2022-07-19 10:41:59,340 - IQsoftAPI -INFO - Game Launching API Response status was checked
+2022-07-19 10:41:59,340 - IQsoftAPI -INFO - ---------------------------------------------------------------
+2022-07-19 10:46:08,807 - IQsoftAPI -INFO - API Test Suite start execution
+2022-07-19 10:46:09,724 - IQsoftAPI -INFO - Game Launching API request was sent
+2022-07-19 10:46:09,774 - IQsoftAPI -INFO - Game Launching API Response status was checked
+2022-07-19 10:46:09,775 - IQsoftAPI -INFO - ---------------------------------------------------------------
+2022-07-19 16:06:09,735 - IQsoftAPI -INFO - API Test Suite start execution
+2022-07-19 16:06:11,424 - IQsoftAPI -INFO - Game Launching API request was sent
+2022-07-19 16:06:11,495 - IQsoftAPI -INFO - Game Launching API Response status was checked
+2022-07-19 16:06:11,496 - IQsoftAPI -INFO - ---------------------------------------------------------------
+2022-07-19 16:07:05,639 - IQsoftAPI -INFO - API Test Suite start execution
+2022-07-19 16:07:29,396 - IQsoftAPI -INFO - API Test Suite start execution
+2022-07-19 16:08:10,437 - IQsoftAPI -INFO - API Test Suite start execution
+2022-07-19 16:08:12,347 - IQsoftAPI -INFO - Game Launching API request was sent
+2022-07-19 16:08:12,392 - IQsoftAPI -INFO - Game Launching API Response status was checked
+2022-07-19 16:08:12,392 - IQsoftAPI -INFO - ---------------------------------------------------------------
+2022-07-19 16:12:21,797 - IQsoftAPI -INFO - API Test Suite start execution
+2022-07-19 16:12:22,137 - IQsoftAPI -INFO - Game Launching API request has an Exception
+2022-07-19 16:12:22,194 - IQsoftAPI -INFO - codTest Test Start
+2022-07-19 16:12:22,202 - IQsoftAPI -FATAL - codTest Test Failed
+2022-07-19 16:12:22,255 - IQsoftAPI -INFO - responseCodeTest Test Start
+2022-07-19 16:12:22,255 - IQsoftAPI -INFO - Game Launching API Response Cod was checked: --->0
+2022-07-19 16:12:22,256 - IQsoftAPI -INFO - ---------------------------------------------------------------
+2022-07-19 16:12:22,256 - IQsoftAPI -INFO - responseCodeTest Test Succeed
+2022-07-19 16:12:22,264 - IQsoftAPI -INFO - responseDescriptionTest Test Start
+2022-07-19 16:12:22,265 - IQsoftAPI -INFO - Game Launching API Response Error Description was checked: --->null
+2022-07-19 16:12:22,265 - IQsoftAPI -INFO - ---------------------------------------------------------------
+2022-07-19 16:12:22,265 - IQsoftAPI -INFO - responseDescriptionTest Test Succeed
+2022-07-19 16:12:22,270 - IQsoftAPI -INFO - responseObjectTest Test Start
+2022-07-19 16:12:22,270 - IQsoftAPI -INFO - Game Launching API Response Object was checked: --->null
+2022-07-19 16:12:22,271 - IQsoftAPI -INFO - ---------------------------------------------------------------
+2022-07-19 16:12:22,271 - IQsoftAPI -INFO - responseObjectTest Test Succeed
+2022-07-19 16:13:09,664 - IQsoftAPI -INFO - API Test Suite start execution
+2022-07-19 16:13:09,985 - IQsoftAPI -INFO - Game Launching API request has an Exception
+2022-07-19 16:13:10,134 - IQsoftAPI -INFO - Game Launching API Response Cod was checked: --->0
+2022-07-19 16:13:10,134 - IQsoftAPI -INFO - ---------------------------------------------------------------
+2022-07-19 16:13:10,142 - IQsoftAPI -INFO - Game Launching API Response Error Description was checked: --->null
+2022-07-19 16:13:10,143 - IQsoftAPI -INFO - ---------------------------------------------------------------
+2022-07-19 16:13:10,149 - IQsoftAPI -INFO - Game Launching API Response Object was checked: --->null
+2022-07-19 16:13:10,149 - IQsoftAPI -INFO - ---------------------------------------------------------------
+2022-07-19 16:13:32,140 - IQsoftAPI -INFO - API Test Suite start execution
+2022-07-19 16:13:32,458 - IQsoftAPI -INFO - Game Launching API request has an Exception
+2022-07-19 16:13:32,572 - IQsoftAPI -INFO - Game Launching API Response Cod was checked: --->0
+2022-07-19 16:13:32,572 - IQsoftAPI -INFO - ---------------------------------------------------------------
+2022-07-19 16:13:32,577 - IQsoftAPI -INFO - Game Launching API Response Error Description was checked: --->null
+2022-07-19 16:13:32,578 - IQsoftAPI -INFO - ---------------------------------------------------------------
+2022-07-19 16:13:32,582 - IQsoftAPI -INFO - Game Launching API Response Object was checked: --->null
+2022-07-19 16:13:32,582 - IQsoftAPI -INFO - ---------------------------------------------------------------
+2022-07-19 16:14:20,347 - IQsoftAPI -INFO - API Test Suite start execution
+2022-07-19 16:14:20,718 - IQsoftAPI -INFO - Game Launching API request has an Exception
+2022-07-19 16:14:20,844 - IQsoftAPI -INFO - Game Launching API Response Cod was checked: --->0
+2022-07-19 16:14:20,845 - IQsoftAPI -INFO - ---------------------------------------------------------------
+2022-07-19 16:14:20,850 - IQsoftAPI -INFO - Game Launching API Response Error Description was checked: --->null
+2022-07-19 16:14:20,851 - IQsoftAPI -INFO - ---------------------------------------------------------------
+2022-07-19 16:14:20,869 - IQsoftAPI -INFO - Game Launching API Response Object was checked: --->null
+2022-07-19 16:14:20,870 - IQsoftAPI -INFO - ---------------------------------------------------------------
+2022-07-19 16:15:28,458 - IQsoftAPI -INFO - API Test Suite start execution
+2022-07-19 16:15:44,376 - IQsoftAPI -INFO - Game Launching API request was sent
+2022-07-19 16:15:44,429 - IQsoftAPI -INFO - Game Launching API Response status was checked: --->200
+2022-07-19 16:15:44,429 - IQsoftAPI -INFO - ---------------------------------------------------------------
+2022-07-19 16:16:25,136 - IQsoftAPI -INFO - API Test Suite start execution
+2022-07-19 16:16:25,932 - IQsoftAPI -INFO - Game Launching API request was sent
+2022-07-19 16:16:25,980 - IQsoftAPI -INFO - codTest Test Start
+2022-07-19 16:16:25,983 - IQsoftAPI -INFO - Game Launching API Response status was checked: --->200
+2022-07-19 16:16:25,984 - IQsoftAPI -INFO - ---------------------------------------------------------------
+2022-07-19 16:16:25,985 - IQsoftAPI -INFO - codTest Test Succeed
+2022-07-19 16:16:26,033 - IQsoftAPI -INFO - responseCodeTest Test Start
+2022-07-19 16:16:26,039 - IQsoftAPI -FATAL - responseCodeTest Test Failed
+2022-07-19 16:16:26,107 - IQsoftAPI -INFO - responseDescriptionTest Test Start
+2022-07-19 16:16:26,108 - IQsoftAPI -FATAL - responseDescriptionTest Test Failed
+2022-07-19 16:16:26,112 - IQsoftAPI -INFO - responseObjectTest Test Start
+2022-07-19 16:16:26,112 - IQsoftAPI -FATAL - responseObjectTest Test Failed

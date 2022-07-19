@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="0.108" tests="4" errors="0" skipped="0" failures="3">
+<testsuite name="TestSuite" time="0.171" tests="4" errors="0" skipped="0" failures="3">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="17.0.2+8-LTS-86"/>
@@ -61,7 +61,7 @@
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
   <testcase name="codTest" classname="testCases.API1_GameLaunch" time="0.089"/>
-  <testcase name="responseCodeTest" classname="testCases.API1_GameLaunch" time="0.011">
+  <testcase name="responseCodeTest" classname="testCases.API1_GameLaunch" time="0.075">
     <failure message="expected [0] but found [21]" type="java.lang.AssertionError">java.lang.AssertionError: expected [0] but found [21]
 	at org.testng.Assert.fail(Assert.java:110)
 	at org.testng.Assert.failNotEquals(Assert.java:1413)
@@ -69,13 +69,13 @@
 	at org.testng.Assert.assertEquals(Assert.java:131)
 	at org.testng.Assert.assertEquals(Assert.java:1240)
 	at org.testng.Assert.assertEquals(Assert.java:1274)
-	at testCases.API1_GameLaunch.responseCodeTest(API1_GameLaunch.java:73)
+	at testCases.API1_GameLaunch.responseCodeTest(API1_GameLaunch.java:75)
 </failure>
     <system-out><![CDATA[ INFO [main] (ReportingAllure.java:30)- responseCodeTest Test Start
 FATAL [main] (ReportingAllure.java:40)- responseCodeTest Test Failed
 ]]></system-out>
   </testcase>
-  <testcase name="responseDescriptionTest" classname="testCases.API1_GameLaunch" time="0.004">
+  <testcase name="responseDescriptionTest" classname="testCases.API1_GameLaunch" time="0.003">
     <failure message="expected [null] but found [{&quot;ClientNotFound&quot;:22,&quot;Description&quot;:&quot;User Not Found&quot;}]" type="java.lang.AssertionError">java.lang.AssertionError: expected [null] but found [{"ClientNotFound":22,"Description":"User Not Found"}]
 	at org.testng.Assert.fail(Assert.java:110)
 	at org.testng.Assert.failNotEquals(Assert.java:1413)
@@ -83,7 +83,7 @@ FATAL [main] (ReportingAllure.java:40)- responseCodeTest Test Failed
 	at org.testng.Assert.assertEquals(Assert.java:131)
 	at org.testng.Assert.assertEquals(Assert.java:655)
 	at org.testng.Assert.assertEquals(Assert.java:665)
-	at testCases.API1_GameLaunch.responseDescriptionTest(API1_GameLaunch.java:81)
+	at testCases.API1_GameLaunch.responseDescriptionTest(API1_GameLaunch.java:83)
 </failure>
     <system-out><![CDATA[ INFO [main] (ReportingAllure.java:30)- responseDescriptionTest Test Start
 FATAL [main] (ReportingAllure.java:40)- responseDescriptionTest Test Failed
@@ -96,7 +96,7 @@ FATAL [main] (ReportingAllure.java:40)- responseDescriptionTest Test Failed
 	at org.testng.Assert.assertNotEqualsImpl(Assert.java:156)
 	at org.testng.Assert.assertNotEquals(Assert.java:2033)
 	at org.testng.Assert.assertNotEquals(Assert.java:2055)
-	at testCases.API1_GameLaunch.responseObjectTest(API1_GameLaunch.java:89)
+	at testCases.API1_GameLaunch.responseObjectTest(API1_GameLaunch.java:91)
 </failure>
     <system-out><![CDATA[ INFO [main] (ReportingAllure.java:30)- responseObjectTest Test Start
 FATAL [main] (ReportingAllure.java:40)- responseObjectTest Test Failed
